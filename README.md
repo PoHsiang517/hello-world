@@ -2,4 +2,6 @@
 hello world test
 
 // First time to use Git
-// Try to make so diffents
+
+/* how to enter line
+maybe next time */
